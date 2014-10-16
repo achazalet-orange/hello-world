@@ -3,4 +3,4 @@ hello-world
 
 My "hello world" repo.
 
-description description description...
+Enhanced README.md
